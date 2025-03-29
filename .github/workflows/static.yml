@@ -7,8 +7,7 @@
     <style>
         /* أنماط CSS (مماثلة للنسخ السابقة) */
         body {
-            font-family: 'Arial', sans-serif;
-            background: linear-gradient(45deg, #ff00ff, #0000ff);
+                        background: linear-gradient(45deg, #ff00ff, #0000ff);
             color: white;
             text-align: center;
             margin: 0;
